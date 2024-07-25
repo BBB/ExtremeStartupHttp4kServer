@@ -11,3 +11,7 @@ target
 /.gradle
 *.actual
 /out
+flake.lock
+flake.nix
+.envrc
+.direnv
